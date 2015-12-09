@@ -192,6 +192,7 @@
 				TargetAttributes = {
 					61F5BC1E1BF60B7B000671D4 = {
 						CreatedOnToolsVersion = 7.0;
+						DevelopmentTeam = L658J8KRQ5;
 					};
 					61F5BC321BF60B7C000671D4 = {
 						CreatedOnToolsVersion = 7.0;
@@ -396,6 +397,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = Maze/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = nokonoko.Maze;
@@ -407,6 +409,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = Maze/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = nokonoko.Maze;
@@ -481,6 +484,7 @@
 				61F5BC491BF60B7C000671D4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		61F5BC4A1BF60B7C000671D4 /* Build configuration list for PBXNativeTarget "MazeTests" */ = {
 			isa = XCConfigurationList;
@@ -489,6 +493,7 @@
 				61F5BC4C1BF60B7C000671D4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		61F5BC4D1BF60B7C000671D4 /* Build configuration list for PBXNativeTarget "MazeUITests" */ = {
 			isa = XCConfigurationList;
@@ -497,6 +502,7 @@
 				61F5BC4F1BF60B7C000671D4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
